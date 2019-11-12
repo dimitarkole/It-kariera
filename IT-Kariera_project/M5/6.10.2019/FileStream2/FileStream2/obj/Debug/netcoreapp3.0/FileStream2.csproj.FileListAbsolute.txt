@@ -1,0 +1,11 @@
+E:\IT-Kariera\M5\6.10.2019\FileStream2\FileStream2\bin\Debug\netcoreapp3.0\FileStream2.exe
+E:\IT-Kariera\M5\6.10.2019\FileStream2\FileStream2\bin\Debug\netcoreapp3.0\FileStream2.deps.json
+E:\IT-Kariera\M5\6.10.2019\FileStream2\FileStream2\bin\Debug\netcoreapp3.0\FileStream2.runtimeconfig.json
+E:\IT-Kariera\M5\6.10.2019\FileStream2\FileStream2\bin\Debug\netcoreapp3.0\FileStream2.runtimeconfig.dev.json
+E:\IT-Kariera\M5\6.10.2019\FileStream2\FileStream2\bin\Debug\netcoreapp3.0\FileStream2.dll
+E:\IT-Kariera\M5\6.10.2019\FileStream2\FileStream2\bin\Debug\netcoreapp3.0\FileStream2.pdb
+E:\IT-Kariera\M5\6.10.2019\FileStream2\FileStream2\obj\Debug\netcoreapp3.0\FileStream2.AssemblyInfoInputs.cache
+E:\IT-Kariera\M5\6.10.2019\FileStream2\FileStream2\obj\Debug\netcoreapp3.0\FileStream2.AssemblyInfo.cs
+E:\IT-Kariera\M5\6.10.2019\FileStream2\FileStream2\obj\Debug\netcoreapp3.0\FileStream2.dll
+E:\IT-Kariera\M5\6.10.2019\FileStream2\FileStream2\obj\Debug\netcoreapp3.0\FileStream2.pdb
+E:\IT-Kariera\M5\6.10.2019\FileStream2\FileStream2\obj\Debug\netcoreapp3.0\FileStream2.csprojAssemblyReference.cache

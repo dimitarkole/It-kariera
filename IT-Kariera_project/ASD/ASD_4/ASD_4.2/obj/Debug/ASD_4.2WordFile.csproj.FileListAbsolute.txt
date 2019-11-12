@@ -1,0 +1,7 @@
+E:\IT-Kariera\ASD\ASD_4\ASD_4.2\bin\Debug\ASD_4.2.exe.config
+E:\IT-Kariera\ASD\ASD_4\ASD_4.2\bin\Debug\ASD_4.2.exe
+E:\IT-Kariera\ASD\ASD_4\ASD_4.2\bin\Debug\ASD_4.2.pdb
+E:\IT-Kariera\ASD\ASD_4\ASD_4.2\obj\Debug\ASD_4.2WordFile.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\ASD\ASD_4\ASD_4.2\obj\Debug\ASD_4.2.exe
+E:\IT-Kariera\ASD\ASD_4\ASD_4.2\obj\Debug\ASD_4.2.pdb
+E:\IT-Kariera\ASD\ASD_4\ASD_4.2\obj\Debug\ASD_4.2WordFile.csprojAssemblyReference.cache

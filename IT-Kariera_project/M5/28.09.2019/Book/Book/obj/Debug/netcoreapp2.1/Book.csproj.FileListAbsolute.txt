@@ -1,0 +1,11 @@
+E:\IT-Kariera\Unit Tests\28.09.2019\Book\Book\bin\Debug\netcoreapp2.1\Book.deps.json
+E:\IT-Kariera\Unit Tests\28.09.2019\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.json
+E:\IT-Kariera\Unit Tests\28.09.2019\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.dev.json
+E:\IT-Kariera\Unit Tests\28.09.2019\Book\Book\bin\Debug\netcoreapp2.1\Book.dll
+E:\IT-Kariera\Unit Tests\28.09.2019\Book\Book\bin\Debug\netcoreapp2.1\Book.pdb
+E:\IT-Kariera\Unit Tests\28.09.2019\Book\Book\obj\Debug\netcoreapp2.1\Book.csprojAssemblyReference.cache
+E:\IT-Kariera\Unit Tests\28.09.2019\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Unit Tests\28.09.2019\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfoInputs.cache
+E:\IT-Kariera\Unit Tests\28.09.2019\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfo.cs
+E:\IT-Kariera\Unit Tests\28.09.2019\Book\Book\obj\Debug\netcoreapp2.1\Book.dll
+E:\IT-Kariera\Unit Tests\28.09.2019\Book\Book\obj\Debug\netcoreapp2.1\Book.pdb

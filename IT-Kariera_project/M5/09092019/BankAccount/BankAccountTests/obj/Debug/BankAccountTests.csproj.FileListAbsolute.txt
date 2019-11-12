@@ -1,0 +1,17 @@
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\NUnit3.TestAdapter.dll
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\NUnit3.TestAdapter.pdb
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\nunit.engine.dll
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\nunit.engine.api.dll
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\BankAccountTests.dll
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\BankAccountTests.pdb
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\nunit.framework.dll
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\nunit.framework.pdb
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\BankAccount.exe
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\BankAccount.pdb
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\bin\Debug\BankAccount.exe.config
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\obj\Debug\BankAccountTests.csprojAssemblyReference.cache
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\obj\Debug\BankAccountTests.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\obj\Debug\BankAccountTests.csproj.CopyComplete
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\obj\Debug\BankAccountTests.dll
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccountTests\obj\Debug\BankAccountTests.pdb

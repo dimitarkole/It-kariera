@@ -1,0 +1,7 @@
+E:\IT-Kariera\ASD\Restourant\Restourant\bin\Debug\Restourant.exe.config
+E:\IT-Kariera\ASD\Restourant\Restourant\bin\Debug\Restourant.exe
+E:\IT-Kariera\ASD\Restourant\Restourant\bin\Debug\Restourant.pdb
+E:\IT-Kariera\ASD\Restourant\Restourant\obj\Debug\Restourant.csprojAssemblyReference.cache
+E:\IT-Kariera\ASD\Restourant\Restourant\obj\Debug\Restourant.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\ASD\Restourant\Restourant\obj\Debug\Restourant.exe
+E:\IT-Kariera\ASD\Restourant\Restourant\obj\Debug\Restourant.pdb

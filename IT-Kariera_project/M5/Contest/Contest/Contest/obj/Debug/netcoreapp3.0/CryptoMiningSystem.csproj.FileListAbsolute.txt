@@ -1,0 +1,11 @@
+E:\IT-Kariera\M5\Contest\Contest\Contest\obj\Debug\netcoreapp3.0\CryptoMiningSystem.csprojAssemblyReference.cache
+E:\IT-Kariera\M5\Contest\Contest\Contest\obj\Debug\netcoreapp3.0\CryptoMiningSystem.AssemblyInfoInputs.cache
+E:\IT-Kariera\M5\Contest\Contest\Contest\obj\Debug\netcoreapp3.0\CryptoMiningSystem.AssemblyInfo.cs
+E:\IT-Kariera\M5\Contest\Contest\Contest\bin\Debug\netcoreapp3.0\CryptoMiningSystem.exe
+E:\IT-Kariera\M5\Contest\Contest\Contest\bin\Debug\netcoreapp3.0\CryptoMiningSystem.deps.json
+E:\IT-Kariera\M5\Contest\Contest\Contest\bin\Debug\netcoreapp3.0\CryptoMiningSystem.runtimeconfig.json
+E:\IT-Kariera\M5\Contest\Contest\Contest\bin\Debug\netcoreapp3.0\CryptoMiningSystem.runtimeconfig.dev.json
+E:\IT-Kariera\M5\Contest\Contest\Contest\bin\Debug\netcoreapp3.0\CryptoMiningSystem.dll
+E:\IT-Kariera\M5\Contest\Contest\Contest\bin\Debug\netcoreapp3.0\CryptoMiningSystem.pdb
+E:\IT-Kariera\M5\Contest\Contest\Contest\obj\Debug\netcoreapp3.0\CryptoMiningSystem.dll
+E:\IT-Kariera\M5\Contest\Contest\Contest\obj\Debug\netcoreapp3.0\CryptoMiningSystem.pdb

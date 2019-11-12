@@ -1,0 +1,11 @@
+E:\IT-Kariera\M5\6.10.2019\FileSstreams\FileSstreams\bin\Debug\netcoreapp3.0\FileSstreams.exe
+E:\IT-Kariera\M5\6.10.2019\FileSstreams\FileSstreams\bin\Debug\netcoreapp3.0\FileSstreams.deps.json
+E:\IT-Kariera\M5\6.10.2019\FileSstreams\FileSstreams\bin\Debug\netcoreapp3.0\FileSstreams.runtimeconfig.json
+E:\IT-Kariera\M5\6.10.2019\FileSstreams\FileSstreams\bin\Debug\netcoreapp3.0\FileSstreams.runtimeconfig.dev.json
+E:\IT-Kariera\M5\6.10.2019\FileSstreams\FileSstreams\bin\Debug\netcoreapp3.0\FileSstreams.dll
+E:\IT-Kariera\M5\6.10.2019\FileSstreams\FileSstreams\bin\Debug\netcoreapp3.0\FileSstreams.pdb
+E:\IT-Kariera\M5\6.10.2019\FileSstreams\FileSstreams\obj\Debug\netcoreapp3.0\FileSstreams.csprojAssemblyReference.cache
+E:\IT-Kariera\M5\6.10.2019\FileSstreams\FileSstreams\obj\Debug\netcoreapp3.0\FileSstreams.AssemblyInfoInputs.cache
+E:\IT-Kariera\M5\6.10.2019\FileSstreams\FileSstreams\obj\Debug\netcoreapp3.0\FileSstreams.AssemblyInfo.cs
+E:\IT-Kariera\M5\6.10.2019\FileSstreams\FileSstreams\obj\Debug\netcoreapp3.0\FileSstreams.dll
+E:\IT-Kariera\M5\6.10.2019\FileSstreams\FileSstreams\obj\Debug\netcoreapp3.0\FileSstreams.pdb

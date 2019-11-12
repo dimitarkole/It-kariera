@@ -1,0 +1,7 @@
+E:\IT-Kariera\Basic\25.11.2018\13Zad\bin\Debug\13Zad.exe.config
+E:\IT-Kariera\Basic\25.11.2018\13Zad\bin\Debug\13Zad.exe
+E:\IT-Kariera\Basic\25.11.2018\13Zad\bin\Debug\13Zad.pdb
+E:\IT-Kariera\Basic\25.11.2018\13Zad\obj\Debug\13Zad.csprojResolveAssemblyReference.cache
+E:\IT-Kariera\Basic\25.11.2018\13Zad\obj\Debug\13Zad.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Basic\25.11.2018\13Zad\obj\Debug\13Zad.exe
+E:\IT-Kariera\Basic\25.11.2018\13Zad\obj\Debug\13Zad.pdb

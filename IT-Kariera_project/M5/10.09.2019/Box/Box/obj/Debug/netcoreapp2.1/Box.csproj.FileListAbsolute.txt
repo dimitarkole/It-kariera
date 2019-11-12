@@ -1,0 +1,11 @@
+E:\IT-Kariera\Unit Tests\10.09.2019\Box\Box\bin\Debug\netcoreapp2.1\Box.deps.json
+E:\IT-Kariera\Unit Tests\10.09.2019\Box\Box\bin\Debug\netcoreapp2.1\Box.runtimeconfig.json
+E:\IT-Kariera\Unit Tests\10.09.2019\Box\Box\bin\Debug\netcoreapp2.1\Box.runtimeconfig.dev.json
+E:\IT-Kariera\Unit Tests\10.09.2019\Box\Box\bin\Debug\netcoreapp2.1\Box.dll
+E:\IT-Kariera\Unit Tests\10.09.2019\Box\Box\bin\Debug\netcoreapp2.1\Box.pdb
+E:\IT-Kariera\Unit Tests\10.09.2019\Box\Box\obj\Debug\netcoreapp2.1\Box.csprojAssemblyReference.cache
+E:\IT-Kariera\Unit Tests\10.09.2019\Box\Box\obj\Debug\netcoreapp2.1\Box.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Unit Tests\10.09.2019\Box\Box\obj\Debug\netcoreapp2.1\Box.AssemblyInfoInputs.cache
+E:\IT-Kariera\Unit Tests\10.09.2019\Box\Box\obj\Debug\netcoreapp2.1\Box.AssemblyInfo.cs
+E:\IT-Kariera\Unit Tests\10.09.2019\Box\Box\obj\Debug\netcoreapp2.1\Box.dll
+E:\IT-Kariera\Unit Tests\10.09.2019\Box\Box\obj\Debug\netcoreapp2.1\Box.pdb

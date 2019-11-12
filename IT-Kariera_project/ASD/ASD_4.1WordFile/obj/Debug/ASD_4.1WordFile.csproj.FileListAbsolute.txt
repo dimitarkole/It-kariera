@@ -1,0 +1,7 @@
+E:\IT-Kariera\ASD\ASD_4.1WordFile\bin\Debug\ASD_4.1WordFile.exe.config
+E:\IT-Kariera\ASD\ASD_4.1WordFile\bin\Debug\ASD_4.1WordFile.exe
+E:\IT-Kariera\ASD\ASD_4.1WordFile\bin\Debug\ASD_4.1WordFile.pdb
+E:\IT-Kariera\ASD\ASD_4.1WordFile\obj\Debug\ASD_4.1WordFile.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\ASD\ASD_4.1WordFile\obj\Debug\ASD_4.1WordFile.exe
+E:\IT-Kariera\ASD\ASD_4.1WordFile\obj\Debug\ASD_4.1WordFile.pdb
+E:\IT-Kariera\ASD\ASD_4.1WordFile\obj\Debug\ASD_4.1WordFile.csprojAssemblyReference.cache

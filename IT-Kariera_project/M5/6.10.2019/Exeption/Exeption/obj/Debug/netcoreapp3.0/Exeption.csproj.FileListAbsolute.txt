@@ -1,0 +1,11 @@
+E:\IT-Kariera\M5\6.10.2019\Exeption\Exeption\obj\Debug\netcoreapp3.0\Exeption.csprojAssemblyReference.cache
+E:\IT-Kariera\M5\6.10.2019\Exeption\Exeption\obj\Debug\netcoreapp3.0\Exeption.AssemblyInfoInputs.cache
+E:\IT-Kariera\M5\6.10.2019\Exeption\Exeption\obj\Debug\netcoreapp3.0\Exeption.AssemblyInfo.cs
+E:\IT-Kariera\M5\6.10.2019\Exeption\Exeption\bin\Debug\netcoreapp3.0\Exeption.exe
+E:\IT-Kariera\M5\6.10.2019\Exeption\Exeption\bin\Debug\netcoreapp3.0\Exeption.deps.json
+E:\IT-Kariera\M5\6.10.2019\Exeption\Exeption\bin\Debug\netcoreapp3.0\Exeption.runtimeconfig.json
+E:\IT-Kariera\M5\6.10.2019\Exeption\Exeption\bin\Debug\netcoreapp3.0\Exeption.runtimeconfig.dev.json
+E:\IT-Kariera\M5\6.10.2019\Exeption\Exeption\bin\Debug\netcoreapp3.0\Exeption.dll
+E:\IT-Kariera\M5\6.10.2019\Exeption\Exeption\bin\Debug\netcoreapp3.0\Exeption.pdb
+E:\IT-Kariera\M5\6.10.2019\Exeption\Exeption\obj\Debug\netcoreapp3.0\Exeption.dll
+E:\IT-Kariera\M5\6.10.2019\Exeption\Exeption\obj\Debug\netcoreapp3.0\Exeption.pdb

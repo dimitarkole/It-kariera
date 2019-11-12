@@ -1,0 +1,11 @@
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\LinqTasks\bin\Debug\netcoreapp3.0\LinqTasks.exe
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\LinqTasks\bin\Debug\netcoreapp3.0\LinqTasks.deps.json
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\LinqTasks\bin\Debug\netcoreapp3.0\LinqTasks.runtimeconfig.json
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\LinqTasks\bin\Debug\netcoreapp3.0\LinqTasks.runtimeconfig.dev.json
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\LinqTasks\bin\Debug\netcoreapp3.0\LinqTasks.dll
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\LinqTasks\bin\Debug\netcoreapp3.0\LinqTasks.pdb
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\LinqTasks\obj\Debug\netcoreapp3.0\LinqTasks.csprojAssemblyReference.cache
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\LinqTasks\obj\Debug\netcoreapp3.0\LinqTasks.AssemblyInfoInputs.cache
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\LinqTasks\obj\Debug\netcoreapp3.0\LinqTasks.AssemblyInfo.cs
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\LinqTasks\obj\Debug\netcoreapp3.0\LinqTasks.dll
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\LinqTasks\obj\Debug\netcoreapp3.0\LinqTasks.pdb

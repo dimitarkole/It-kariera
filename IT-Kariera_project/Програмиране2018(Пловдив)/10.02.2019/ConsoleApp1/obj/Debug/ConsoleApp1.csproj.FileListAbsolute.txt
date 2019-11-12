@@ -1,0 +1,7 @@
+E:\IT-Kariera\Програмиране2018(Пловдив)\10.02.2019\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\IT-Kariera\Програмиране2018(Пловдив)\10.02.2019\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\IT-Kariera\Програмиране2018(Пловдив)\10.02.2019\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\IT-Kariera\Програмиране2018(Пловдив)\10.02.2019\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\IT-Kariera\Програмиране2018(Пловдив)\10.02.2019\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Програмиране2018(Пловдив)\10.02.2019\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\IT-Kariera\Програмиране2018(Пловдив)\10.02.2019\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

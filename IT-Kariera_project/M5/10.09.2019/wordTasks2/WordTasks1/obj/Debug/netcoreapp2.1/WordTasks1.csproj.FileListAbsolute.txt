@@ -1,0 +1,11 @@
+E:\IT-Kariera\Unit Tests\10.09.2019\wordTasks2\WordTasks1\bin\Debug\netcoreapp2.1\WordTasks1.deps.json
+E:\IT-Kariera\Unit Tests\10.09.2019\wordTasks2\WordTasks1\bin\Debug\netcoreapp2.1\WordTasks1.runtimeconfig.json
+E:\IT-Kariera\Unit Tests\10.09.2019\wordTasks2\WordTasks1\bin\Debug\netcoreapp2.1\WordTasks1.runtimeconfig.dev.json
+E:\IT-Kariera\Unit Tests\10.09.2019\wordTasks2\WordTasks1\bin\Debug\netcoreapp2.1\WordTasks1.dll
+E:\IT-Kariera\Unit Tests\10.09.2019\wordTasks2\WordTasks1\bin\Debug\netcoreapp2.1\WordTasks1.pdb
+E:\IT-Kariera\Unit Tests\10.09.2019\wordTasks2\WordTasks1\obj\Debug\netcoreapp2.1\WordTasks1.csprojAssemblyReference.cache
+E:\IT-Kariera\Unit Tests\10.09.2019\wordTasks2\WordTasks1\obj\Debug\netcoreapp2.1\WordTasks1.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Unit Tests\10.09.2019\wordTasks2\WordTasks1\obj\Debug\netcoreapp2.1\WordTasks1.AssemblyInfoInputs.cache
+E:\IT-Kariera\Unit Tests\10.09.2019\wordTasks2\WordTasks1\obj\Debug\netcoreapp2.1\WordTasks1.AssemblyInfo.cs
+E:\IT-Kariera\Unit Tests\10.09.2019\wordTasks2\WordTasks1\obj\Debug\netcoreapp2.1\WordTasks1.dll
+E:\IT-Kariera\Unit Tests\10.09.2019\wordTasks2\WordTasks1\obj\Debug\netcoreapp2.1\WordTasks1.pdb

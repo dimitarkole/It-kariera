@@ -1,0 +1,7 @@
+E:\IT-Kariera\Basic\11.11.2018\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\IT-Kariera\Basic\11.11.2018\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\IT-Kariera\Basic\11.11.2018\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\IT-Kariera\Basic\11.11.2018\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+E:\IT-Kariera\Basic\11.11.2018\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Basic\11.11.2018\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\IT-Kariera\Basic\11.11.2018\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

@@ -1,0 +1,7 @@
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+E:\IT-Kariera\Unit Tests\09092019\BankAccount\BankAccount\obj\Debug\BankAccount.pdb

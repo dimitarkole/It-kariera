@@ -1,0 +1,7 @@
+E:\IT-Kariera\Basic\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\IT-Kariera\Basic\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\IT-Kariera\Basic\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\IT-Kariera\Basic\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Basic\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\IT-Kariera\Basic\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+E:\IT-Kariera\Basic\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache

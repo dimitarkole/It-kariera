@@ -1,0 +1,7 @@
+E:\IT-Kariera\ООП\Материал за официална подготовка-20190407\bonapetit\myRestaurant\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\IT-Kariera\ООП\Материал за официална подготовка-20190407\bonapetit\myRestaurant\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\IT-Kariera\ООП\Материал за официална подготовка-20190407\bonapetit\myRestaurant\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\IT-Kariera\ООП\Материал за официална подготовка-20190407\bonapetit\myRestaurant\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\IT-Kariera\ООП\Материал за официална подготовка-20190407\bonapetit\myRestaurant\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\ООП\Материал за официална подготовка-20190407\bonapetit\myRestaurant\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\IT-Kariera\ООП\Материал за официална подготовка-20190407\bonapetit\myRestaurant\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

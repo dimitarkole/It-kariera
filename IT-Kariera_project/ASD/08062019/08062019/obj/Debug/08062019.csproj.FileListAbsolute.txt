@@ -1,0 +1,7 @@
+E:\IT-Kariera\ASD\08062019\08062019\bin\Debug\08062019.exe.config
+E:\IT-Kariera\ASD\08062019\08062019\bin\Debug\08062019.exe
+E:\IT-Kariera\ASD\08062019\08062019\bin\Debug\08062019.pdb
+E:\IT-Kariera\ASD\08062019\08062019\obj\Debug\08062019.csprojAssemblyReference.cache
+E:\IT-Kariera\ASD\08062019\08062019\obj\Debug\08062019.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\ASD\08062019\08062019\obj\Debug\08062019.exe
+E:\IT-Kariera\ASD\08062019\08062019\obj\Debug\08062019.pdb

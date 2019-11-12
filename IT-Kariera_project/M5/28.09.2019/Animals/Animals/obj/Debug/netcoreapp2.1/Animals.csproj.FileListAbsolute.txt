@@ -1,0 +1,11 @@
+E:\IT-Kariera\Unit Tests\28.09.2019\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache
+E:\IT-Kariera\Unit Tests\28.09.2019\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Unit Tests\28.09.2019\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+E:\IT-Kariera\Unit Tests\28.09.2019\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+E:\IT-Kariera\Unit Tests\28.09.2019\Animals\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+E:\IT-Kariera\Unit Tests\28.09.2019\Animals\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+E:\IT-Kariera\Unit Tests\28.09.2019\Animals\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+E:\IT-Kariera\Unit Tests\28.09.2019\Animals\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+E:\IT-Kariera\Unit Tests\28.09.2019\Animals\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+E:\IT-Kariera\Unit Tests\28.09.2019\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+E:\IT-Kariera\Unit Tests\28.09.2019\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.pdb

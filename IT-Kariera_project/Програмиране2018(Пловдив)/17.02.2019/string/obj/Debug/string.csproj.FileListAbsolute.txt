@@ -1,0 +1,7 @@
+E:\IT-Kariera\Програмиране2018(Пловдив)\17.02.2019\string\bin\Debug\@string.exe.config
+E:\IT-Kariera\Програмиране2018(Пловдив)\17.02.2019\string\bin\Debug\@string.exe
+E:\IT-Kariera\Програмиране2018(Пловдив)\17.02.2019\string\bin\Debug\@string.pdb
+E:\IT-Kariera\Програмиране2018(Пловдив)\17.02.2019\string\obj\Debug\string.csprojAssemblyReference.cache
+E:\IT-Kariera\Програмиране2018(Пловдив)\17.02.2019\string\obj\Debug\string.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Програмиране2018(Пловдив)\17.02.2019\string\obj\Debug\@string.exe
+E:\IT-Kariera\Програмиране2018(Пловдив)\17.02.2019\string\obj\Debug\@string.pdb

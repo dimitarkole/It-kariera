@@ -1,0 +1,11 @@
+E:\IT-Kariera\Unit Tests\12.09.2019\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+E:\IT-Kariera\Unit Tests\12.09.2019\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+E:\IT-Kariera\Unit Tests\12.09.2019\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+E:\IT-Kariera\Unit Tests\12.09.2019\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+E:\IT-Kariera\Unit Tests\12.09.2019\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+E:\IT-Kariera\Unit Tests\12.09.2019\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+E:\IT-Kariera\Unit Tests\12.09.2019\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Unit Tests\12.09.2019\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+E:\IT-Kariera\Unit Tests\12.09.2019\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+E:\IT-Kariera\Unit Tests\12.09.2019\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+E:\IT-Kariera\Unit Tests\12.09.2019\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb

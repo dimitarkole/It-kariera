@@ -1,0 +1,11 @@
+E:\IT-Kariera\M5\5.10.2019\Delegats\Delegats\bin\Debug\netcoreapp3.0\Delegats.exe
+E:\IT-Kariera\M5\5.10.2019\Delegats\Delegats\bin\Debug\netcoreapp3.0\Delegats.deps.json
+E:\IT-Kariera\M5\5.10.2019\Delegats\Delegats\bin\Debug\netcoreapp3.0\Delegats.runtimeconfig.json
+E:\IT-Kariera\M5\5.10.2019\Delegats\Delegats\bin\Debug\netcoreapp3.0\Delegats.runtimeconfig.dev.json
+E:\IT-Kariera\M5\5.10.2019\Delegats\Delegats\bin\Debug\netcoreapp3.0\Delegats.dll
+E:\IT-Kariera\M5\5.10.2019\Delegats\Delegats\bin\Debug\netcoreapp3.0\Delegats.pdb
+E:\IT-Kariera\M5\5.10.2019\Delegats\Delegats\obj\Debug\netcoreapp3.0\Delegats.csprojAssemblyReference.cache
+E:\IT-Kariera\M5\5.10.2019\Delegats\Delegats\obj\Debug\netcoreapp3.0\Delegats.AssemblyInfoInputs.cache
+E:\IT-Kariera\M5\5.10.2019\Delegats\Delegats\obj\Debug\netcoreapp3.0\Delegats.AssemblyInfo.cs
+E:\IT-Kariera\M5\5.10.2019\Delegats\Delegats\obj\Debug\netcoreapp3.0\Delegats.dll
+E:\IT-Kariera\M5\5.10.2019\Delegats\Delegats\obj\Debug\netcoreapp3.0\Delegats.pdb

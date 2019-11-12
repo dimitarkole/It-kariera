@@ -1,0 +1,7 @@
+E:\IT-Kariera\Basic\3.11.2018\firstProgram\bin\Debug\firstProgram.exe.config
+E:\IT-Kariera\Basic\3.11.2018\firstProgram\bin\Debug\firstProgram.exe
+E:\IT-Kariera\Basic\3.11.2018\firstProgram\bin\Debug\firstProgram.pdb
+E:\IT-Kariera\Basic\3.11.2018\firstProgram\obj\Debug\firstProgram.csprojResolveAssemblyReference.cache
+E:\IT-Kariera\Basic\3.11.2018\firstProgram\obj\Debug\firstProgram.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\Basic\3.11.2018\firstProgram\obj\Debug\firstProgram.exe
+E:\IT-Kariera\Basic\3.11.2018\firstProgram\obj\Debug\firstProgram.pdb

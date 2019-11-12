@@ -1,0 +1,11 @@
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\FunctualDeveloper\bin\Debug\netcoreapp3.0\FunctualDeveloper2Word.exe
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\FunctualDeveloper\bin\Debug\netcoreapp3.0\FunctualDeveloper2Word.deps.json
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\FunctualDeveloper\bin\Debug\netcoreapp3.0\FunctualDeveloper2Word.runtimeconfig.json
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\FunctualDeveloper\bin\Debug\netcoreapp3.0\FunctualDeveloper2Word.runtimeconfig.dev.json
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\FunctualDeveloper\bin\Debug\netcoreapp3.0\FunctualDeveloper2Word.dll
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\FunctualDeveloper\bin\Debug\netcoreapp3.0\FunctualDeveloper2Word.pdb
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\FunctualDeveloper\obj\Debug\netcoreapp3.0\FunctualDeveloper2Word.csprojAssemblyReference.cache
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\FunctualDeveloper\obj\Debug\netcoreapp3.0\FunctualDeveloper2Word.AssemblyInfoInputs.cache
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\FunctualDeveloper\obj\Debug\netcoreapp3.0\FunctualDeveloper2Word.AssemblyInfo.cs
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\FunctualDeveloper\obj\Debug\netcoreapp3.0\FunctualDeveloper2Word.dll
+E:\IT-Kariera\M5\29.09.2019\LinqTasks\FunctualDeveloper\obj\Debug\netcoreapp3.0\FunctualDeveloper2Word.pdb

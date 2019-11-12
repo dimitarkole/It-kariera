@@ -1,0 +1,11 @@
+E:\IT-Kariera\M5\Contest2\HeroFight\HeroFight\obj\Debug\netcoreapp3.0\HeroFight.csprojAssemblyReference.cache
+E:\IT-Kariera\M5\Contest2\HeroFight\HeroFight\obj\Debug\netcoreapp3.0\HeroFight.AssemblyInfoInputs.cache
+E:\IT-Kariera\M5\Contest2\HeroFight\HeroFight\obj\Debug\netcoreapp3.0\HeroFight.AssemblyInfo.cs
+E:\IT-Kariera\M5\Contest2\HeroFight\HeroFight\bin\Debug\netcoreapp3.0\HeroFight.exe
+E:\IT-Kariera\M5\Contest2\HeroFight\HeroFight\bin\Debug\netcoreapp3.0\HeroFight.deps.json
+E:\IT-Kariera\M5\Contest2\HeroFight\HeroFight\bin\Debug\netcoreapp3.0\HeroFight.runtimeconfig.json
+E:\IT-Kariera\M5\Contest2\HeroFight\HeroFight\bin\Debug\netcoreapp3.0\HeroFight.runtimeconfig.dev.json
+E:\IT-Kariera\M5\Contest2\HeroFight\HeroFight\bin\Debug\netcoreapp3.0\HeroFight.dll
+E:\IT-Kariera\M5\Contest2\HeroFight\HeroFight\bin\Debug\netcoreapp3.0\HeroFight.pdb
+E:\IT-Kariera\M5\Contest2\HeroFight\HeroFight\obj\Debug\netcoreapp3.0\HeroFight.dll
+E:\IT-Kariera\M5\Contest2\HeroFight\HeroFight\obj\Debug\netcoreapp3.0\HeroFight.pdb

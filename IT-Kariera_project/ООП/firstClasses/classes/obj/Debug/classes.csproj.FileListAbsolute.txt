@@ -1,0 +1,7 @@
+E:\IT-Kariera\ООП\firstClasses\classes\bin\Debug\classes.exe.config
+E:\IT-Kariera\ООП\firstClasses\classes\bin\Debug\classes.exe
+E:\IT-Kariera\ООП\firstClasses\classes\bin\Debug\classes.pdb
+E:\IT-Kariera\ООП\firstClasses\classes\obj\Debug\classes.csprojAssemblyReference.cache
+E:\IT-Kariera\ООП\firstClasses\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+E:\IT-Kariera\ООП\firstClasses\classes\obj\Debug\classes.exe
+E:\IT-Kariera\ООП\firstClasses\classes\obj\Debug\classes.pdb

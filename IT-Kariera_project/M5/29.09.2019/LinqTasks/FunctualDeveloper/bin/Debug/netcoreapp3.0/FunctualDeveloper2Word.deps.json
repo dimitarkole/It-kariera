@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "FunctualDeveloper2Word/1.0.0": {
+        "runtime": {
+          "FunctualDeveloper2Word.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FunctualDeveloper2Word/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
