@@ -40,6 +40,8 @@ namespace _08062019
                 this.head.PrevNode=newHead;
                 this.head = newHead;
             }
+            this.Count++;
+
         }
 
         public void ForEach(Action<T> action)
@@ -65,6 +67,7 @@ namespace _08062019
                 this.head.NextNode = newHead;
                 this.head = newHead;
             }
+            this.Count++;
         }
 
         public T RemoveFirst(T element)
@@ -131,7 +134,6 @@ namespace _08062019
                 currentNode = currentNode.NextNode;
             }
         }
-
 
         IEnumerator IEnumerable.GetEnumerator()
         {

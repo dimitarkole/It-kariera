@@ -1,0 +1,16 @@
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\bin\Debug\netstandard2.0\Tests.deps.json
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\bin\Debug\netstandard2.0\Tests.dll
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\obj\Debug\netstandard2.0\Tests.csprojAssemblyReference.cache
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\obj\Debug\netstandard2.0\Tests.AssemblyInfoInputs.cache
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\obj\Debug\netstandard2.0\Tests.AssemblyInfo.cs
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\bin\Debug\netstandard2.0\nunit.engine.dll
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\bin\Debug\netstandard2.0\nunit.engine.api.dll
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\bin\Debug\netstandard2.0\Tests.pdb
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\bin\Debug\netstandard2.0\Skeleton.exe
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\bin\Debug\netstandard2.0\Skeleton.pdb
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\bin\Debug\netstandard2.0\Skeleton.exe.config
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\obj\Debug\netstandard2.0\Tests.csproj.CopyComplete
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\obj\Debug\netstandard2.0\Tests.dll
+E:\It-kariera\IT-Kariera_project\07\Материали към курса-20200208\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове\Lab\Tests\obj\Debug\netstandard2.0\Tests.pdb
