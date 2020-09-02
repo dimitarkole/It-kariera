@@ -1,0 +1,12 @@
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache

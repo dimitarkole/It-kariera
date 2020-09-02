@@ -1,0 +1,13 @@
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.exe
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.deps.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.runtimeconfig.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.runtimeconfig.dev.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.csprojAssemblyReference.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.AssemblyInfoInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.AssemblyInfo.cs
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.csproj.CoreCompileInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\01\GreedyAlgorithms\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.genruntimeconfig.cache
