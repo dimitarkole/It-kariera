@@ -1,0 +1,11 @@
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\Horse\bin\Debug\netcoreapp3.1\Horse.exe
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\Horse\bin\Debug\netcoreapp3.1\Horse.deps.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\Horse\bin\Debug\netcoreapp3.1\Horse.runtimeconfig.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\Horse\bin\Debug\netcoreapp3.1\Horse.runtimeconfig.dev.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\Horse\bin\Debug\netcoreapp3.1\Horse.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\Horse\bin\Debug\netcoreapp3.1\Horse.pdb
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\Horse\obj\Debug\netcoreapp3.1\Horse.csprojAssemblyReference.cache
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\Horse\obj\Debug\netcoreapp3.1\Horse.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\Horse\obj\Debug\netcoreapp3.1\Horse.AssemblyInfo.cs
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\Horse\obj\Debug\netcoreapp3.1\Horse.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\Horse\obj\Debug\netcoreapp3.1\Horse.pdb

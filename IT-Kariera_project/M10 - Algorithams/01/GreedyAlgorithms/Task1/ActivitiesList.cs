@@ -48,7 +48,6 @@ namespace Task1
             for (int i = 0; i < n; i++)
             {
                 var stack = new Stack<ActivityInputModel>();
-
                 var fakeData = new List<ActivityInputModel>(this.Activities);
                 stack.Push(fakeData[i]);
                 fakeData.RemoveAt(i);
@@ -60,7 +59,8 @@ namespace Task1
                     stack.Push(element);
                     fakeData.Remove(element);
                 }
-                if(stack.Count> maxStack.Count)
+
+                if(stack.Count > maxStack.Count)
                 {
                     maxStack = new Stack<ActivityInputModel>(stack);
                 }

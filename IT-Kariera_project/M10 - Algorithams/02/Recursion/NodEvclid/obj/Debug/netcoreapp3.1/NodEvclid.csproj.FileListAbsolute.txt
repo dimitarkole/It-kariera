@@ -1,0 +1,10 @@
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NodEvclid\bin\Debug\netcoreapp3.1\NodEvclid.exe
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NodEvclid\bin\Debug\netcoreapp3.1\NodEvclid.deps.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NodEvclid\bin\Debug\netcoreapp3.1\NodEvclid.runtimeconfig.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NodEvclid\bin\Debug\netcoreapp3.1\NodEvclid.runtimeconfig.dev.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NodEvclid\bin\Debug\netcoreapp3.1\NodEvclid.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NodEvclid\bin\Debug\netcoreapp3.1\NodEvclid.pdb
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NodEvclid\obj\Debug\netcoreapp3.1\NodEvclid.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NodEvclid\obj\Debug\netcoreapp3.1\NodEvclid.AssemblyInfo.cs
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NodEvclid\obj\Debug\netcoreapp3.1\NodEvclid.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NodEvclid\obj\Debug\netcoreapp3.1\NodEvclid.pdb

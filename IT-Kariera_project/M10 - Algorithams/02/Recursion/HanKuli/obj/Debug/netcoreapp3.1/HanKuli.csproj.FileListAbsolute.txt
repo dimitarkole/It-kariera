@@ -1,0 +1,11 @@
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\HanKuli\bin\Debug\netcoreapp3.1\HanKuli.exe
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\HanKuli\bin\Debug\netcoreapp3.1\HanKuli.deps.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\HanKuli\bin\Debug\netcoreapp3.1\HanKuli.runtimeconfig.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\HanKuli\bin\Debug\netcoreapp3.1\HanKuli.runtimeconfig.dev.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\HanKuli\bin\Debug\netcoreapp3.1\HanKuli.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\HanKuli\bin\Debug\netcoreapp3.1\HanKuli.pdb
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\HanKuli\obj\Debug\netcoreapp3.1\HanKuli.csprojAssemblyReference.cache
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\HanKuli\obj\Debug\netcoreapp3.1\HanKuli.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\HanKuli\obj\Debug\netcoreapp3.1\HanKuli.AssemblyInfo.cs
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\HanKuli\obj\Debug\netcoreapp3.1\HanKuli.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\HanKuli\obj\Debug\netcoreapp3.1\HanKuli.pdb

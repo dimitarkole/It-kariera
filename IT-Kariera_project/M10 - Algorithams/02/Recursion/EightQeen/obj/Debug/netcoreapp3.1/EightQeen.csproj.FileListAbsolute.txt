@@ -1,0 +1,11 @@
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\EightQeen\bin\Debug\netcoreapp3.1\EightQeen.exe
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\EightQeen\bin\Debug\netcoreapp3.1\EightQeen.deps.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\EightQeen\bin\Debug\netcoreapp3.1\EightQeen.runtimeconfig.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\EightQeen\bin\Debug\netcoreapp3.1\EightQeen.runtimeconfig.dev.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\EightQeen\bin\Debug\netcoreapp3.1\EightQeen.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\EightQeen\bin\Debug\netcoreapp3.1\EightQeen.pdb
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\EightQeen\obj\Debug\netcoreapp3.1\EightQeen.csprojAssemblyReference.cache
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\EightQeen\obj\Debug\netcoreapp3.1\EightQeen.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\EightQeen\obj\Debug\netcoreapp3.1\EightQeen.AssemblyInfo.cs
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\EightQeen\obj\Debug\netcoreapp3.1\EightQeen.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\EightQeen\obj\Debug\netcoreapp3.1\EightQeen.pdb

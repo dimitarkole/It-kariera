@@ -1,0 +1,11 @@
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NOD\bin\Debug\netcoreapp3.1\NOD.exe
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NOD\bin\Debug\netcoreapp3.1\NOD.deps.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NOD\bin\Debug\netcoreapp3.1\NOD.runtimeconfig.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NOD\bin\Debug\netcoreapp3.1\NOD.runtimeconfig.dev.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NOD\bin\Debug\netcoreapp3.1\NOD.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NOD\bin\Debug\netcoreapp3.1\NOD.pdb
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NOD\obj\Debug\netcoreapp3.1\NOD.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NOD\obj\Debug\netcoreapp3.1\NOD.AssemblyInfo.cs
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NOD\obj\Debug\netcoreapp3.1\NOD.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NOD\obj\Debug\netcoreapp3.1\NOD.pdb
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Recursion\NOD\obj\Debug\netcoreapp3.1\NOD.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\bin\Debug\netcoreapp3.1\RecursionAndBacktracking.exe
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\bin\Debug\netcoreapp3.1\RecursionAndBacktracking.deps.json
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\bin\Debug\netcoreapp3.1\RecursionAndBacktracking.runtimeconfig.json
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\bin\Debug\netcoreapp3.1\RecursionAndBacktracking.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\bin\Debug\netcoreapp3.1\RecursionAndBacktracking.dll
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\bin\Debug\netcoreapp3.1\RecursionAndBacktracking.pdb
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\netcoreapp3.1\RecursionAndBacktracking.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\netcoreapp3.1\RecursionAndBacktracking.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\netcoreapp3.1\RecursionAndBacktracking.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\netcoreapp3.1\RecursionAndBacktracking.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\netcoreapp3.1\RecursionAndBacktracking.dll
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\netcoreapp3.1\RecursionAndBacktracking.pdb
+C:\Users\Dimitar\source\repos\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\netcoreapp3.1\RecursionAndBacktracking.genruntimeconfig.cache
