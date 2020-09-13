@@ -1,0 +1,37 @@
+C:\Users\Student\source\repos\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.exe
+C:\Users\Student\source\repos\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.deps.json
+C:\Users\Student\source\repos\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.runtimeconfig.json
+C:\Users\Student\source\repos\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.dll
+C:\Users\Student\source\repos\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.pdb
+C:\Users\Student\source\repos\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.AssemblyInfo.cs
+C:\Users\Student\source\repos\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.dll
+C:\Users\Student\source\repos\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.pdb
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.exe
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.deps.json
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.runtimeconfig.json
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.runtimeconfig.dev.json
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.dll
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.pdb
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.csprojAssemblyReference.cache
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.AssemblyInfoInputs.cache
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.AssemblyInfo.cs
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.dll
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.pdb
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.genruntimeconfig.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.exe
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.deps.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.runtimeconfig.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.runtimeconfig.dev.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\bin\Debug\netcoreapp3.1\CreateTree.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.csprojAssemblyReference.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.AssemblyInfoInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.AssemblyInfo.cs
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.csproj.CoreCompileInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\CreateTree\obj\Debug\netcoreapp3.1\CreateTree.genruntimeconfig.cache

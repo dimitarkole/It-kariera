@@ -1,0 +1,37 @@
+C:\Users\Student\source\repos\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.exe
+C:\Users\Student\source\repos\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.deps.json
+C:\Users\Student\source\repos\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.json
+C:\Users\Student\source\repos\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\Student\source\repos\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\Student\source\repos\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfo.cs
+C:\Users\Student\source\repos\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\Student\source\repos\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.exe
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.deps.json
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.json
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.dev.json
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfoInputs.cache
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfo.cs
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\Teacher\Desktop\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.genruntimeconfig.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.exe
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.deps.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.dev.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\bin\Debug\netcoreapp3.1\Permutation.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.csprojAssemblyReference.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfoInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfo.cs
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.CoreCompileInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Permutation\obj\Debug\netcoreapp3.1\Permutation.genruntimeconfig.cache

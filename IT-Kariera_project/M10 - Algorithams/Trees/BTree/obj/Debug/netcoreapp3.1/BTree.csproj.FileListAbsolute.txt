@@ -1,0 +1,37 @@
+C:\Users\Student\source\repos\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.AssemblyInfo.cs
+C:\Users\Student\source\repos\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.exe
+C:\Users\Student\source\repos\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.deps.json
+C:\Users\Student\source\repos\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.runtimeconfig.json
+C:\Users\Student\source\repos\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.dll
+C:\Users\Student\source\repos\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.pdb
+C:\Users\Student\source\repos\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.dll
+C:\Users\Student\source\repos\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.pdb
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.exe
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.deps.json
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.runtimeconfig.json
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.runtimeconfig.dev.json
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.dll
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.pdb
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.csprojAssemblyReference.cache
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.AssemblyInfoInputs.cache
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.AssemblyInfo.cs
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.dll
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.pdb
+C:\Users\Teacher\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.genruntimeconfig.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.exe
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.deps.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.runtimeconfig.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.runtimeconfig.dev.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\bin\Debug\netcoreapp3.1\BTree.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.csprojAssemblyReference.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.AssemblyInfoInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.AssemblyInfo.cs
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.csproj.CoreCompileInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\Trees\BTree\obj\Debug\netcoreapp3.1\BTree.genruntimeconfig.cache
