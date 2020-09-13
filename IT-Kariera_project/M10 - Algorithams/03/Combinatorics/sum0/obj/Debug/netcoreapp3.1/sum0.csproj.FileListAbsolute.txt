@@ -1,0 +1,23 @@
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.exe
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.deps.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.runtimeconfig.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.runtimeconfig.dev.json
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.pdb
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Combinatorics\sum0\obj\Debug\netcoreapp3.1\sum0.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Combinatorics\sum0\obj\Debug\netcoreapp3.1\sum0.AssemblyInfo.cs
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Combinatorics\sum0\obj\Debug\netcoreapp3.1\sum0.dll
+C:\Users\Student\OneDrive - Ministry of Education and Science - Bulgaria\ИТ Кариера 2020\Combinatorics\sum0\obj\Debug\netcoreapp3.1\sum0.pdb
+C:\Users\Teacher\Desktop\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.exe
+C:\Users\Teacher\Desktop\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.deps.json
+C:\Users\Teacher\Desktop\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.runtimeconfig.json
+C:\Users\Teacher\Desktop\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.runtimeconfig.dev.json
+C:\Users\Teacher\Desktop\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.dll
+C:\Users\Teacher\Desktop\Combinatorics\sum0\bin\Debug\netcoreapp3.1\sum0.pdb
+C:\Users\Teacher\Desktop\Combinatorics\sum0\obj\Debug\netcoreapp3.1\sum0.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\Combinatorics\sum0\obj\Debug\netcoreapp3.1\sum0.AssemblyInfoInputs.cache
+C:\Users\Teacher\Desktop\Combinatorics\sum0\obj\Debug\netcoreapp3.1\sum0.AssemblyInfo.cs
+C:\Users\Teacher\Desktop\Combinatorics\sum0\obj\Debug\netcoreapp3.1\sum0.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Combinatorics\sum0\obj\Debug\netcoreapp3.1\sum0.dll
+C:\Users\Teacher\Desktop\Combinatorics\sum0\obj\Debug\netcoreapp3.1\sum0.pdb
+C:\Users\Teacher\Desktop\Combinatorics\sum0\obj\Debug\netcoreapp3.1\sum0.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\obj\Debug\netcoreapp3.1\Task4.genruntimeconfig.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\03\Combinatorics\Task4\obj\Debug\netcoreapp3.1\Task4.csprojAssemblyReference.cache

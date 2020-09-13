@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{AFED4EC3-E018-419A-9010-451A26EA4E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZiroAndOne", "ZiroAndOne\ZiroAndOne.csproj", "{86204C29-9297-4B89-B6F9-DC196B7AEE42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFED4EC3-E018-419A-9010-451A26EA4E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFED4EC3-E018-419A-9010-451A26EA4E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFED4EC3-E018-419A-9010-451A26EA4E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFED4EC3-E018-419A-9010-451A26EA4E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86204C29-9297-4B89-B6F9-DC196B7AEE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86204C29-9297-4B89-B6F9-DC196B7AEE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86204C29-9297-4B89-B6F9-DC196B7AEE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86204C29-9297-4B89-B6F9-DC196B7AEE42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC11A421-8AFD-45C4-994E-5D504AB4B8B5}
+	EndGlobalSection
+EndGlobal

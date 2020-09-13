@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\Combinatorics\trPaskal\bin\Debug\netcoreapp3.1\trPaskal.exe
+C:\Users\Student\source\repos\Combinatorics\trPaskal\bin\Debug\netcoreapp3.1\trPaskal.deps.json
+C:\Users\Student\source\repos\Combinatorics\trPaskal\bin\Debug\netcoreapp3.1\trPaskal.runtimeconfig.json
+C:\Users\Student\source\repos\Combinatorics\trPaskal\bin\Debug\netcoreapp3.1\trPaskal.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Combinatorics\trPaskal\bin\Debug\netcoreapp3.1\trPaskal.dll
+C:\Users\Student\source\repos\Combinatorics\trPaskal\bin\Debug\netcoreapp3.1\trPaskal.pdb
+C:\Users\Student\source\repos\Combinatorics\trPaskal\obj\Debug\netcoreapp3.1\trPaskal.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Combinatorics\trPaskal\obj\Debug\netcoreapp3.1\trPaskal.AssemblyInfo.cs
+C:\Users\Student\source\repos\Combinatorics\trPaskal\obj\Debug\netcoreapp3.1\trPaskal.dll
+C:\Users\Student\source\repos\Combinatorics\trPaskal\obj\Debug\netcoreapp3.1\trPaskal.pdb

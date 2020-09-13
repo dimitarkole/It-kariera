@@ -1,0 +1,13 @@
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.csprojAssemblyReference.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.AssemblyInfoInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.AssemblyInfo.cs
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.csproj.CoreCompileInputs.cache
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.exe
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.deps.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.runtimeconfig.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.runtimeconfig.dev.json
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.dll
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.pdb
+E:\It-kariera\IT-Kariera_project\M10 - Algorithams\11.0902020\DynamicProgramming\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.genruntimeconfig.cache
